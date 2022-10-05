@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/prfile.dir/many_object_in_stack_example.cpp.o  -o prfile  -Wl,-rpath,/home/diana/Desktop/robot_programming/mini_core/build/src ../src/libcore_library.so 
